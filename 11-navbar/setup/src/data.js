@@ -26,12 +26,18 @@ export const links = [
     url: '/profile',
     text: 'profile',
   },
+  {
+    id: 6,
+    url: '/omlette',
+    text: 'omlettee',
+  },
+ 
 ]
 
 export const social = [
   {
     id: 1,
-    url: 'https://www.twitter.com',
+    url: 'https://www.facebook.com',
     icon: <FaFacebook />,
   },
   {
@@ -41,7 +47,7 @@ export const social = [
   },
   {
     id: 3,
-    url: 'https://www.twitter.com',
+    url: 'https://www.liknkedin.com',
     icon: <FaLinkedin />,
   },
   {
